@@ -5,3 +5,16 @@ right: 20px;
 top: 20px;
 
 }
+
+.header h1 {
+
+font-style: bold ;
+font-size: 30px;
+font-family:"Roboto", sans-serif;
+}
+
+*{
+
+background-color: grey;
+
+}
